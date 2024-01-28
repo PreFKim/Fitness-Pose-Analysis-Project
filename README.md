@@ -34,7 +34,7 @@
 
 ### 과정
 
-<p align="center"><img src = './imgs/pose-anomaly.PNG'>
+<p align="center"><img src = './imgs/pose-anomaly.png'>
 
 1. 이상치 데이터를 포함하여 모델을 학습한다.
 
